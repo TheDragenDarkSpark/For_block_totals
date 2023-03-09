@@ -12,3 +12,21 @@
 
 Console.Clear();
 
+// Ввод строки:
+string GetNumber(string messege)
+{
+    string resulString = "Пустая строка!";
+    Console.Write("Введите текст!");
+    while(true)
+    {
+        if(int.TryParse(Console.Read(), out resulString))
+        {
+            break;
+        }
+        else
+        {
+            Console.Write("The string isn't entered! Enter a string: ");
+        }
+        return resulString;
+    }
+}
