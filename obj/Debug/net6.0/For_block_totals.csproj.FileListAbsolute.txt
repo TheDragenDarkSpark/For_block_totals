@@ -1,0 +1,15 @@
+C:\Users\anluz\OneDrive\Рабочий стол\Education_GeekBrains\For_block_totals\obj\Debug\net6.0\For_block_totals.csproj.AssemblyReference.cache
+C:\Users\anluz\OneDrive\Рабочий стол\Education_GeekBrains\For_block_totals\obj\Debug\net6.0\For_block_totals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anluz\OneDrive\Рабочий стол\Education_GeekBrains\For_block_totals\obj\Debug\net6.0\For_block_totals.AssemblyInfoInputs.cache
+C:\Users\anluz\OneDrive\Рабочий стол\Education_GeekBrains\For_block_totals\obj\Debug\net6.0\For_block_totals.AssemblyInfo.cs
+C:\Users\anluz\OneDrive\Рабочий стол\Education_GeekBrains\For_block_totals\obj\Debug\net6.0\For_block_totals.csproj.CoreCompileInputs.cache
+C:\Users\anluz\OneDrive\Рабочий стол\Education_GeekBrains\For_block_totals\bin\Debug\net6.0\For_block_totals.exe
+C:\Users\anluz\OneDrive\Рабочий стол\Education_GeekBrains\For_block_totals\bin\Debug\net6.0\For_block_totals.deps.json
+C:\Users\anluz\OneDrive\Рабочий стол\Education_GeekBrains\For_block_totals\bin\Debug\net6.0\For_block_totals.runtimeconfig.json
+C:\Users\anluz\OneDrive\Рабочий стол\Education_GeekBrains\For_block_totals\bin\Debug\net6.0\For_block_totals.dll
+C:\Users\anluz\OneDrive\Рабочий стол\Education_GeekBrains\For_block_totals\bin\Debug\net6.0\For_block_totals.pdb
+C:\Users\anluz\OneDrive\Рабочий стол\Education_GeekBrains\For_block_totals\obj\Debug\net6.0\For_block_totals.dll
+C:\Users\anluz\OneDrive\Рабочий стол\Education_GeekBrains\For_block_totals\obj\Debug\net6.0\refint\For_block_totals.dll
+C:\Users\anluz\OneDrive\Рабочий стол\Education_GeekBrains\For_block_totals\obj\Debug\net6.0\For_block_totals.pdb
+C:\Users\anluz\OneDrive\Рабочий стол\Education_GeekBrains\For_block_totals\obj\Debug\net6.0\For_block_totals.genruntimeconfig.cache
+C:\Users\anluz\OneDrive\Рабочий стол\Education_GeekBrains\For_block_totals\obj\Debug\net6.0\ref\For_block_totals.dll
